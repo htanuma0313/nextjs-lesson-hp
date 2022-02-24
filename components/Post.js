@@ -10,7 +10,6 @@ const Post = ({post}) => {
                 </span>
             </Link>
         </div>
-        
     );
 };
 
